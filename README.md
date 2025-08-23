@@ -1,16 +1,6 @@
 ## 👋 Heya, I'm theaddonn!
 
-Open-Source software engineer focusing on developing awesome, open-source solutions.
-Most of my work is for Minecraft Bedrock Edition.
-
-<br />
-
-### 🔭 I’m currently working on:
-- <a href="https://github.com/bedrock-crustaceans/bedrockrs">bedrockrs</a> - An easy-to-use universal library for Minecraft Bedrock.<br>
-- <a href="https://github.com/EndstoneMC/endstone">Endstone</a> - A cross-platform plugin API for Bedrock Dedicated Servers.<br>
-- <a href="https://github.com/bedrock-crustaceans/RAstra">RAstra</a> - Modern Minecraft Bedrock Server Software written in Rust.<br>
-
-<br />
+Software Engineer & Project Manager committed to delivering simple, high-performance, and innovative solutions.
 
 ### 📫 How to reach me:
 Talk to me on Discord: theaddon<br>
