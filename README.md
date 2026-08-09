@@ -4,7 +4,7 @@ Software Engineer & Project Manager committed to delivering simple, high-perform
 
 ### 📫 How to reach me:
 Talk to me on Discord: theaddon<br>
-Mail me: `theaddonn@gmail.com`
+Mail me: `lucy@azurite.studio` or `theaddonn@gmail.com`
 
 <br />
 
